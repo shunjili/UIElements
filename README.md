@@ -1,7 +1,7 @@
 UIElements
 ==========
 
-Small UI Elements that are great but provided by Apple
+Small UI Elements that are great but not provided by Apple
 
 
 1. SJReversibleButton
